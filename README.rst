@@ -1,10 +1,16 @@
 Simple Python interface for the Varnish management port
 =========================================================
 
+WARNING: THIS SOFTWARE IS NO LONGER MAINTAINED::
+
+We are keeping it here becuase there are some other projects still using it
+
 
 :Author:
    Justin Quick <justquick@gmail.com>, Sandy Walsh <github@darksecretsoftware.com>
 :Version: 0.1
+
+Additional minor patches and bugfixes by Real Geeks
 
 ::
 
